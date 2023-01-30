@@ -37,6 +37,10 @@ body {
   border-bottom: 0.5rem solid black;
 }
 
+#box9 {
+  border-right: 0.5rem solid black;
+}
+
 .prompt {
   position: absolute;
   top: 0%;
